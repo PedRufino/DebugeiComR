@@ -86,7 +86,3 @@ JsonPlaceHolderTodos = R6Class("JsonPlaceHolderTodos",
    
  )
 )
-
-teste <- JsonPlaceHolderTodos$new()
-teste$search_todo(99999)
-
