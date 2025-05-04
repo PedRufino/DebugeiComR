@@ -83,6 +83,5 @@ JsonPlaceHolderTodos = R6Class("JsonPlaceHolderTodos",
      
      content(response, "parsed")
    }
-   
  )
 )
