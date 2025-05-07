@@ -27,12 +27,7 @@ Desenvolvido por **Pedro Rufino**
 
 ## 🎤 Apresentação
 
-![Apresentação do Projeto](/Apresentacao/img/1.jpg)
-![Apresentação do Projeto](/Apresentacao/img/2.jpg)
-![Apresentação do Projeto](/Apresentacao/img/3.jpg)
-![Apresentação do Projeto](/Apresentacao/img/4.jpg)
-![Apresentação do Projeto](/Apresentacao/img/5.jpg)
-![Apresentação do Projeto](/Apresentacao/img/6.jpg)
-![Apresentação do Projeto](/Apresentacao/img/7.jpg)
-![Apresentação do Projeto](/Apresentacao/img/8.jpg)
-![Apresentação do Projeto](/Apresentacao/img/9.jpg)
+![Apresentação do Projeto](/Apresentacao/img/1.png)
+![Apresentação do Projeto](/Apresentacao/img/2.png)
+![Apresentação do Projeto](/Apresentacao/img/3.png)
+![Apresentação do Projeto](/Apresentacao/img/4.png)
